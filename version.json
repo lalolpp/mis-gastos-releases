@@ -1,0 +1,6 @@
+{
+    "versionCode":  3,
+    "versionName":  "1.2",
+    "apkUrl":  "https://github.com/lalolpp/mis-gastos-releases/releases/download/v1.2-3/mis-gastos.apk",
+    "notes":  "Configuracion (personas, bancos y tarjetas), saludo con tu nombre y actualizaciones desde la app. Tus datos se conservan al actualizar."
+}
